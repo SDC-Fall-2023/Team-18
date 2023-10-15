@@ -2,9 +2,9 @@ _This is just a suggested template for the README of your project, feel free to 
 # \[Project Title\]
 
 ### Team Members
-- Name 1 (Project Lead)
-- Name 2
-- Name 3
+- Name 1 Matthew Giadla
+- Name 2 Jacob Goldthorpe
+- Name 3 James Yin
 
 ### Project Description
 Describe the goal of your project here.
